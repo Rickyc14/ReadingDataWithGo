@@ -1,6 +1,7 @@
 # ReadingDataWithGo
 Reading data from a CSV file in Go.
 
+The CSV file contains China's GDP per capita growth from 1970 to today.
 
 ```go
 package main
